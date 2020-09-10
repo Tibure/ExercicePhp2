@@ -2,7 +2,7 @@
 
 class view{
 
-    const PATH = 'C:\\wamp64\\www\\Cours2web\\';
+    const PATH = 'C:\\wamp64\\www\\realWEB\\';
     private $template;
 
     public function __construct($template){

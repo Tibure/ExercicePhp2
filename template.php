@@ -8,7 +8,7 @@
 
 </head>
 <body>
-    <?=$content?>;
-    <?php require("includeJS.php");?>;
+    <?=$content?>
+    <?php require("includeJS.php");?>
 </body>
 </html>
